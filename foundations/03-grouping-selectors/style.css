@@ -5,3 +5,7 @@
 .c2 {
     background-color: #ffff00;
 }
+.c1, .c2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
